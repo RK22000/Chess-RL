@@ -1,0 +1,3 @@
+chess
+notebook
+matplotlib
