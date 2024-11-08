@@ -7,6 +7,6 @@ Given a board, estimate Value function for every possible next state. Pick state
 with most value.
 
 **steps**
-- [ ] Create Board tensor representation (FEN -> tensor)
-- [ ] Create V network for tensor representation
+- [x] Create Board tensor representation (FEN -> tensor)
+- [x] Create V network for tensor representation
 - [ ] Run the game and see whats learned
